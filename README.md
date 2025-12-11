@@ -54,3 +54,6 @@ https://github.com/syeddanish947/Power-Bi-sample-project/blob/main/Power%20Bi%20
 
 Demo sceenshot of the dashbnoard : 
 https://github.com/syeddanish947/Power-Bi-sample-project/blob/main/E%20-%20Commerce%20Sales%20Dashnoard.jpeg
+
+<img width="1149" height="636" alt="image" src="https://github.com/user-attachments/assets/168c8772-f17b-46a8-b3e2-08134a4e41aa" />
+
